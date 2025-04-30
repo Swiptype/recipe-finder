@@ -3,4 +3,4 @@ You can add, modify and export (as PDF) the recipes.
 
 I won't update the database
 
-To create a .exe : python -m PyInstaller --onefile --noconsole main_gui.py
+To create an executable file : python -m PyInstaller --onefile --noconsole main_gui.py
